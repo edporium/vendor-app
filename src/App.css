@@ -1,0 +1,31 @@
+:root{
+  --edporium-primary: #061451;
+
+  --edporium-secondary: #465cb0;
+
+  --edporium-trim: #9c71ff;
+
+  --edporium-button: #fe4040;
+}
+
+.app{
+  margin: auto;
+}
+
+.form-button{
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+
+  width: 100px;
+  height: 30px;
+  background-color: var(--edporium-trim);
+
+  border: none;
+
+  margin: 5px;
+}
+
+
+.form-page{
+  height: 70vh;
+}

@@ -1,0 +1,24 @@
+:root{
+    --edporium-primary: #061451;
+  
+    --edporium-secondary: #465cb0;
+  
+    --edporium-trim: #9c71ff;
+  
+    --edporium-button: #fe4040;
+  }
+
+.banner{
+
+    background-color: #050F3D;
+    width: 100vw;
+height: 100px; 
+margin: 0;
+padding: 0;   
+}
+
+.logo{
+    width: 200px;
+margin: 10px;
+
+}

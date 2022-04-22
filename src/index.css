@@ -1,0 +1,23 @@
+:root{
+  --edporium-primary: #061451;
+
+  --edporium-secondary: #465cb0;
+
+  --edporium-trim: #9c71ff;
+
+  --edporium-button: #fe4040;
+}
+
+html{
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+body{
+
+padding: 0;
+margin: 0;
+  background-color: #061451;
+
+
+}

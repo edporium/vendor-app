@@ -1,0 +1,25 @@
+.text-input-container{
+    color: rgba(255, 255, 255, 0.795);
+
+    margin: 5px;
+}
+
+.text-input-container > input{
+
+    background-color: rgba(255, 255, 255, 0.11);
+    color: white;
+
+    letter-spacing: 1px;
+
+    border: none;
+
+    border-radius: 2px;
+
+    height: 25px;
+
+    display: block;
+
+    
+}
+
+

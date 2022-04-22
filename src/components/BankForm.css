@@ -1,0 +1,38 @@
+
+:root{
+    --edporium-primary: #061451;
+  
+    --edporium-secondary: #465cb0;
+  
+    --edporium-trim: #9c71ff;
+  
+    --edporium-button: #fe4040;
+  }
+
+
+.add-bank-button{
+
+    background-color: rgb(253, 253, 253);
+
+    border: none;
+    border-radius: 2px;
+    height: 40px;
+    width: 200px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    color: black;
+    font-weight:bolder;
+vertical-align: middle;
+
+    
+}
+
+.plaid-logo{
+    height: 19px;
+    width: 100px;
+}
+
+.bank-info{
+    width: 100%;
+    color: white;
+}
